@@ -46,7 +46,7 @@
 			"prefix": "right"
 		}
 	],
-	"no_antialiasing": false,
+	"no_antialiasing": true,
 	"image": "characters/grey_spritesheet", 
 	"position": [0, 0],
 	"scale": 1,
